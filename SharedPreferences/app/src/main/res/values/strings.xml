@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuMirandaApp</string>
+    <string name="comida_preferida">Qual a sua comida preferida?</string>
+    <string name="lasanha">Lasanha</string>
+</resources>

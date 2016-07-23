@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuMirandaApp</string>
+    <string name="comida_preferida">Qual a sua comida preferida?</string>
+    <string name="lasanha">Lasanha</string>
+    <string name="textoTitulo">Escolha uma cor de fundo</string>
+    <string name="cor_azul">Azul</string>
+    <string name="cor_laranja">Laranja</string>
+    <string name="cor_verde">Esse verde mesmo</string>
+    <string name="botao_salvar">Salvar</string>
+</resources>
